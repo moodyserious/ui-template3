@@ -1,0 +1,40 @@
+
+
+/*---------------------------------Navigation Bar ----------------------------------------------*/
+.customnav {
+    background-color: white !important;
+    border: none !important;
+}
+
+.customnav ul{
+    margin-left: 60px;
+}
+.customnav a{
+    padding-top:65px !important;
+    color:black !important;
+    margin-left: 20px !important;
+}
+
+
+.brand{
+    margin-top:-60px;
+    color:white;
+}
+
+img{
+    width:100%;
+}
+
+
+
+/*--------------------------------------Footer ----------------------------------------------------*/
+.footercss{
+    background-color: #333333;
+    width: 100%;
+    color:white;
+}
+
+.footerContent{
+     margin-top:20px;
+ }
+
